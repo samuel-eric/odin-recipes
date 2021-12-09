@@ -35,3 +35,7 @@ img {
 .content li {
     background-color: rgb(171, 243, 219);
 }
+
+.links.recipes {
+    font-size: 15px;
+}
