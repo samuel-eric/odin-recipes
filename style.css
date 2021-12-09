@@ -1,11 +1,13 @@
 * {
     background-color: rgb(157, 157, 250);
+    font-family: Verdana, sans-serif;
 }
 
 h1 {
     background-color: rgb(241, 132, 132);
     text-align: center;
     color: rgb(255, 253, 253);
+    font-size: 50px;
 }
 
 img {
@@ -19,4 +21,17 @@ img {
 .links {
     text-align: center;
     font-size: 25px;
+}
+
+.content h2, 
+.content h3 {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.content p,
+.content ul,
+.content ol,
+.content li {
+    background-color: rgb(171, 243, 219);
 }
